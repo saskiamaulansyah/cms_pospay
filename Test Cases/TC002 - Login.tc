@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC001 - Rate Limit Login</name>
+   <name>TC002 - Login</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>25ed5a1c-5501-4910-b17f-6676b2fa9fec</testCaseGuid>
+   <testCaseGuid>68c8b06c-a93d-451c-904c-6b326388989f</testCaseGuid>
 </TestCaseEntity>
